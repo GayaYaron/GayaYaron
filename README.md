@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<a href="linkedin.com/in/gaya-yaron" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:6px"></a>
+<a href="https://www.linkedin.com/in/gaya-yaron" rel="nofollow noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:6px"></a>
 <a href="mailto:yarongaya@gmail.com" target="_blank" rel="noopener noreferrer"><img src="icons/email.png" alt="Email" height="40" style="vertical-align:top; margin:6px"></a>
 </p>
 
