@@ -7,6 +7,7 @@
 - 🤝 Looking to collaborate on web projects as a backend engineer (especially Java)
 - 💃 Fun fact! I'm a dancer 
 
+<br />
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -26,8 +27,6 @@
 <img src="icons/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-<br />
-
 
 ## :email: Find me on:
 
@@ -36,4 +35,4 @@
 <a href="https://www.linkedin.com/in/gaya-yaron" rel="nofollow noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:6px"></a>
 </p>
 
-<br />
+
