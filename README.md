@@ -7,16 +7,6 @@
 - 🤝 Looking to collaborate on web projects as a backend engineer (especially Java)
 - 💃 Fun fact! I'm a dancer 
 
-## :email: Find me on:
-
-
-<p align="center">
-<a href="https://www.linkedin.com/in/gaya-yaron" rel="nofollow noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:6px"></a>
-<a href="mailto:yarongaya@gmail.com?"><img src="icons/email.png" alt="Email" height="40" style="vertical-align:top; margin:6px"></a>
-</p>
-
-<br />
-
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -34,8 +24,16 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
 <img src="icons/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="icons/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+<br />
 
 
+## :email: Find me on:
+
+
+<p align="center">
+<a href="https://www.linkedin.com/in/gaya-yaron" rel="nofollow noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:6px"></a>
 </p>
 
 <br />
