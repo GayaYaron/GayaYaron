@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaya</h1>
 <h3 align="center">A software developer</h3>
 
-- 🔭 I’m currently developing the ultimate snake website.
+- 🔭 My latest job was at a world renounced fintech company, called "Capitolis", as a backend developer.
 - 🌱 I’m ~~currently~~ constatly learning. 
 - 👯 I like working in a team as well as on my own
 - 🤝 Looking to collaborate on web projects as a backend engineer (especially Java)
@@ -25,6 +25,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
 <img src="icons/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="icons/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flyway_logo.svg/1200px-Flyway_logo.svg.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <br />
